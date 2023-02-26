@@ -9,7 +9,6 @@ header=st.container()
 dataset=st.container()
 features=st.container()
 modelTraining=st.container()
-
 # st.header("USA Covid-19 Data Analysis")
 with header:
     st.header(" USA Covid-19 Data Analysis")
